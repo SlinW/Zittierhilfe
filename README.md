@@ -21,9 +21,9 @@
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |Ich als User kann ein Zitat eigeben und dies wird in eine formale Form konvertiert|Funktional|Als einen User möchte ich ein Zitat eingeben und es wird dann automatisch in eine formelle Form konvertiert|
-| 2  ||      |                                    |
+| 2  |Ich als User kann das Programm am Handy in Form einer App|Funktional|Als User möchte ich eine App haben, damit ich schnell zugreiffen kann|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
