@@ -29,10 +29,10 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Code wird gestartet|Alter schützt vor Liebe nicht, aber Liebe vor dem Altern.|Zitat wird formelle Konvertiert|
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  | Code wird gestartet|Alter schützt vor Liebe nicht, aber Liebe vor dem Altern.|Zitat wird formel Konvertiert|
+| 1.2  | Code wird gestartet|Alter schützt vor Liebe nicht, aber Liebe vor dem Altern. -> Coco Chanell|Zitat wird formel Konvertiert|
+| 1.3  | Code wird gestartet|Alter schützt vor Liebe nicht, aber Liebe vor dem Altern. -> Coco Chanell, (Wenn vorhanden Datum)| Zitat wird formel Konvertiert|
+| 1.4  | Code wird gestartet|Auch aus Steinen, die einem in den Weg gelegt werden, kann man Schönes bauen. -> Johann Woflgang von Goethe, (Buch Titel), (Jahr)| Zitat wird formel Konvertiert| 
 
 ### 1.4 Diagramme
 
