@@ -1,10 +1,10 @@
 # Projekt-Dokumentation
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Wir sind die Frösche! Unsere Nachnamen sind Sutter, Hassani, Bürgi und Wiederkehr.
 
 | Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-| 19.10.2022      | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| ---------- | ------- | ------------------------------------------------------- |
+| 19.10.2022 | 0.0.1   | Erstellung der Projekt-Dokumentation                    |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -12,7 +12,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Projekt ist es eine Zitierhilfe zu Programmieren.
 
 ### 1.2 User Stories
 
