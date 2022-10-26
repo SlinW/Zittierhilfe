@@ -6,7 +6,8 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 19.10.2022 | 0.0.1 | Recherchieren wie man auf Visual Studios eine App kann entwickeln |
+| 26.10.2022 | 0.0.2   | Angefangen am Code zu schreiben |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
