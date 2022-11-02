@@ -20,12 +20,12 @@ Unser Projekt ist es eine Zitierhilfe zu Programmieren.
 | ---- | --------------- | -------------- | -------------------------------------------------------------------------------------------------------- |
 | 1    | Muss            | Funktional     |Als Benutzer möchte ich Ein Zitat eingeben können, damit es mein Zitat in die richtige Formaleform bringt.|
 | 2    | Muss            | Funktional     |Als Benutzer möchte ich den Autor eingeben können, damit es mir meinen Autor angezeigt wird.              |
-| 1.A  |       |           |              |               |
+| 3    |                 |                |                                                                                                          |               
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| TC-№ | Ausgangslage | Eingabe               | Erwartete Ausgabe                              |
 | ---- | ------------ | --------------------- | ---------------------------------------------- |
 | 1.1  |              | Das gewünschte Zitat  |Das Zitat in der richtigen Form ausgegeben wird.|
 | 2.1  |              |                       |                   |
@@ -38,12 +38,12 @@ Unser Projekt ist es eine Zitierhilfe zu Programmieren.
 
 ## 2 Planen
 
-| AP-№ | Frist                   | Zuständig          | Beschreibung                 | geplante Zeit |
-| ---- | ----------------------- | ------------------ | ---------------------------- | ------------- |
-| 1.A  | 02.11.2022              | Carina und Marco   | Grund gerüst Programmieren   |               |
-| 2.A  | Bis Abgabe des Projekts: 30.11.2022 | Nils   | Github Projektdokumentation           |               |
-| 3.A  | Bis Abgabe des Projekts | Ava                | Word dokument                |               |
-| ...  |       |           |              |               |
+| AP-№ | Frist                               | Zuständig          | Beschreibung                 | geplante Zeit |
+| ---- | ----------------------------------- | ------------------ | ---------------------------- | ------------- |
+| 1.A  | 02.11.2022                          | Carina und Marco   | Grund gerüst Programmieren   |               |
+| 2.A  | Bis Abgabe des Projekts: 30.11.2022 | Nils               | Github Projektdokumentation  |               |
+| 3.A  | Bis Abgabe des Projekts             | Ava                | Word dokument                |               |
+| 4.A  |       |           |              |               |
 
 Total: 
 
