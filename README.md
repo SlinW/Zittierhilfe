@@ -39,7 +39,8 @@
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+<img width="281" alt="image" src="https://user-images.githubusercontent.com/111045790/200794315-a4114ae7-c645-48fa-8771-d13fa65e7f96.png">
+
 
 ## 2 Planen
 
