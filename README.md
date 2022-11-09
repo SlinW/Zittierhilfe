@@ -6,13 +6,12 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 26.9.2022 | 0.0.1 | Inforiert und beginn der Arbeit.|
-| 12.10.2022 | 0.0.1 | Worddokumentation erstellt. Palnung Code (PAP) Code. Tiefe recherche vorallem Nils. |
-| 19.10.2022 | 0.0.1 | Arbeit an Worddokumentation. Recherchieren wie man auf Visual Studios eine App kann entwickeln |
-| 26.10.2022 | 0.0.2 | Angefangen am Code zu schreiben. Einleitung und informieren. |
-| 02.11.2022  | 0.1.0 |  Worddokumentation neue Seiten erstellte und Vorlage.    |
-|       | 1.0.0   |                                                              |
-
+| 26.9.2022 | 0.0.1 | Informieren über Zitierhilfe.|
+|19.10.2022| 0.0.2| Planung Code, PAP, aufteilung Arbeit,Worddokumentation erstellt |
+| 26.10.2022 | 0.0.3 | Arbeit an der Worddokumentation,Recherchieren wie man auf Visual Studios eine App entwickeln kann |
+| 02.11.2022 | 0.0.4 | Angefangen mit Code schreiben. Einleitung und informieren geschrieben auf Word. |
+| 09.11.2022  | 0.0.5 |Worddokumentation neue Seitenvorlage zum schreiben erstellte, code geschrieben |
+|       
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -39,8 +38,7 @@
 
 ### 1.4 Diagramme
 
-<img width="281" alt="image" src="https://user-images.githubusercontent.com/111045790/200794315-a4114ae7-c645-48fa-8771-d13fa65e7f96.png">
-
+✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
