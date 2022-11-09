@@ -65,8 +65,8 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 12.10.2022       | Ava |    45'    |            40       |
-| 1.B  |  19.10.2022     |   Carina, Marco |   Recherche App     |  180   | 200   |
-| 1.C  |  26.10.2022     |   Carina, Marco |  Anfang Code    |  180   | 180 |
+| 1.B  |  19.10.2022     |   Carina, Marco|  180   | 200   |
+| 1.C  |  26.10.2022     |   Carina, Marco |  180   | 180 |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
