@@ -44,7 +44,7 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   12.10.2022    |     Ava |      PAP        |   45  |
+| 1.A  |   19.10.2022    |     Ava |      PAP        |   45  |
 | 1.B  |  19.10.2022     |   Carina, Marco |   Recherche App     |  180   |
 | 1.C  |  26.10.2022     |   Carina, Marco |  Anfang Code    |  180   |
 | 1.D  |   .11.2022     |   Ava |   Doku word  |    |
