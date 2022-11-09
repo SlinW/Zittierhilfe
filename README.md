@@ -6,9 +6,11 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 19.10.2022 | 0.0.1 | Recherchieren wie man auf Visual Studios eine App kann entwickeln |
-| 26.10.2022 | 0.0.2 | Angefangen am Code zu schreiben |
-|       | ...     |                                                              |
+| 26.9.2022 | 0.0.1 | Inforiert und beginn der Arbeit.|
+| 12.10.2022 | 0.0.1 | Worddokumentation erstellt. Palnung Code (PAP) Code. Tiefe recherche vorallem Nils. |
+| 19.10.2022 | 0.0.1 | Arbeit an Worddokumentation. Recherchieren wie man auf Visual Studios eine App kann entwickeln |
+| 26.10.2022 | 0.0.2 | Angefangen am Code zu schreiben. Einleitung und informieren. |
+| 02.11.2022  | 0.1.0 |  Worddokumentation neue Seiten erstellte und Vorlage.    |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -43,8 +45,10 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |   12.10.2022    |     Ava |      PAP        |   45  |
+| 1.B  |  19.10.2022     |   Carina, Marco |   Recherche App     |  180   |
+| 1.C  |  26.10.2022     |   Carina, Marco |  Anfang Code    |  180   |
+| 1.D  |   .11.2022     |   Ava |   Doku word  |    |
 
 Total: 
 
@@ -60,8 +64,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 12.10.2022       | Ava |    45'    |            40       |
+| 1.B  |  19.10.2022     |   Carina, Marco |   Recherche App     |  180   | 200   |
+| 1.C  |  26.10.2022     |   Carina, Marco |  Anfang Code    |  180   | 180 |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
